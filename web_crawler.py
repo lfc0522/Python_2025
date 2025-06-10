@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+# 單一網頁爬蟲
 html_doc = """
 <html><head><title>The Dormouse's story</title></head>
 <body>
